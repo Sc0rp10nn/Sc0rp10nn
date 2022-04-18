@@ -8,6 +8,6 @@
 - TryHackMe Mexican Ranking 1st. Place.
 - Programming experience in Python, HTML, JavaScript, PHP, C, SQL and Bash.
 
-https://github.com/Sc0rp10nn/Sc0rp10nn/blob/main/thm.png
+![THM Rank](https://github.com/Sc0rp10nn/Sc0rp10nn/blob/main/thm.png)
 
 ![Sc0rp10n Github Stats](https://github-readme-stats.vercel.app/api?username=Sc0rp10nn&show_icons=true&theme=radical)
