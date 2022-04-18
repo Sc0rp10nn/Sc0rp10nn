@@ -1,17 +1,13 @@
-### Hi there 👋
+## Hi, my name is Sc0rp10n.
+# Cybersecurity professional and programmer.
 
-<!--
-**Sc0rp10nn/Sc0rp10nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cybersecurity professional and programmer.](https://github.com/Sc0rp10nn/Sc0rp10nn/blob/main/BaseImage.jpeg)
 
-Here are some ideas to get you started:
+- 🇲🇽 Mexican Grey Hat Hacker.
+- Love Cybersecurity
+- TryHackMe Mexican Ranking 1st. Place.
+- Programming experience in Python, HTML, JavaScript, PHP, C, SQL and Bash.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://github.com/Sc0rp10nn/Sc0rp10nn/blob/main/thm.png
 
--->
+![Sc0rp10n Github Stats](https://github-readme-stats.vercel.app/api?username=Sc0rp10nn&show_icons=true&theme=radical)
