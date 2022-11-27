@@ -1,7 +1,7 @@
 ## Hi, my name is Sc0rp10n.
 # Cybersecurity professional and programmer.
 
-![Cybersecurity professional and programmer.](https://github.com/Sc0rp10nn/Sc0rp10nn/blob/main/Blood.jpeg)
+![Cybersecurity professional and programmer.](https://github.com/Sc0rp10nn/Sc0rp10nn/blob/main/Blood.jpg)
 
 - 🇲🇽 Mexican Grey Hat Hacker.
 - Love Cybersecurity
